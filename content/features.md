@@ -33,7 +33,7 @@ menu:
   main:
     identifier: strategies
     name: Strategies
-    weight: 2
+    weight: 3
 layout: landing
 ---
 
