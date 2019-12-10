@@ -11,7 +11,7 @@ sections:
     type: section_contact
 menu:
   main:
-    identifier: vison
+    identifier: Vision
     name: Vision
     weight: 2
   secondary:
