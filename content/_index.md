@@ -5,11 +5,13 @@ sections:
       - label: Learn More
         url: /features
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
-    section_id: hero
-    title: This Is A Big Hero Headline
+      Hunger Fulfills goal is to help in delivering top class healthy and
+      nutritional food for the people who are busy and have no time to prepare
+      food.
+    image: >-
+      /images/5-key-tips-for-better-weekly-meal-planning-martini-house-martinihouse_com.png
+    section_id: ''
+    title: ''
     type: section_hero
   - bg: gray
     featureslist:
