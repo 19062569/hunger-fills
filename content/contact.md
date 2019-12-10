@@ -1,17 +1,18 @@
 ---
-title: Contact
+title: Vision
 sections:
-  - type: section_contact
-    section_id: contact
-    title: Contact
+  - bg: gray
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
-    bg: gray
+      **Our vision is to provide door to door delicious and nutritional meal box
+      service for the people who are busy in corporate world, college and school
+      going students and other common people**
+    section_id: vision
+    title: vision
+    type: section_contact
 menu:
   secondary:
-    name: Contact
-    weight: 3
+    name: ''
+    weight: ''
 layout: landing
 ---
+
