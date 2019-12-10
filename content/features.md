@@ -32,7 +32,7 @@ sections:
 menu:
   main:
     identifier: strategies
-    name: Strategies
+    name: Strategies2
     weight: 2
 layout: landing
 ---
