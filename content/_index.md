@@ -11,7 +11,7 @@ sections:
     image: >-
       /images/5-key-tips-for-better-weekly-meal-planning-martini-house-martinihouse_com.png
     section_id: ''
-    title: ''
+    title: 'Goal of our service '
     type: section_hero
   - bg: gray
     featureslist:
