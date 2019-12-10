@@ -6,23 +6,19 @@ sections:
         url: /signup
       - label: View Demo
         url: '#'
-    bg: white
+    bg: gray
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      *  The main strategy of Hunger Fulfills is to attract the mass group of
+      different customers by providing quality and customized nutritional food
+      at its best at very affordable prices.
 
+      *  Social media is all about engaging customers. Hence it is one of the
+      best ways to advertise about the upcoming business where it showcases and
+      highlights the features of the business on social media. 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
+      *  The strategic approach that I adapted is Low cost. The market
+      segmentation targets a huge group of people.
+    image: /images/food-delivery-app.jpg
     section_id: strategies
     title: 'Strategies of our service '
     type: section_content
