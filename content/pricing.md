@@ -25,7 +25,7 @@ sections:
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
         question: Sed scelerisque in ipsum eu sollicitudin?
     section_id: faq
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: ''
     title: Frequently Asked Questions
     type: section_faq
 menu:
