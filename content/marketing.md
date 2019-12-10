@@ -4,7 +4,7 @@ menu:
   main:
     identifier: marketing
     name: Marketing
-    weight: 4
+    weight: 5
 layout: landing
 ---
 
