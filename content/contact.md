@@ -3,9 +3,9 @@ title: Vision
 sections:
   - bg: gray
     content: >-
-      **Our vision is to provide door to door delicious and nutritional meal box
+      Our vision is to provide door to door delicious and nutritional meal box
       service for the people who are busy in corporate world, college and school
-      going students and other common people**
+      going students and other common people.
     section_id: vision
     title: vision
     type: section_contact
