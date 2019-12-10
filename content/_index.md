@@ -10,7 +10,7 @@ sections:
       food.
     image: /images/aggregator-model.png
     section_id: ''
-    title: 'Goal of our service '
+    title: 'Goal of Our Service '
     type: section_hero
   - bg: gray
     featureslist:
@@ -23,7 +23,7 @@ sections:
           very easy to understand and operated easily by everyone.
         image: >-
           /images/5-key-tips-for-better-weekly-meal-planning-martini-house-martinihouse_com.png
-        title: The Best Feature of Your Services
+        title: The Best Feature of Our Service
       - actions:
           - label: Learn More
             url: /features
@@ -32,7 +32,7 @@ sections:
           balanced diet can be maintained even during the busiest days by
           ordering food from our app.
         image: /images/5-easy-vegan-lunch-box-ideas-for-work-adult-bento-.jpg
-        title: Awesome Feature of Your Services
+        title: Awesome Feature of Our Service
       - actions:
           - label: Learn More
             url: /features
