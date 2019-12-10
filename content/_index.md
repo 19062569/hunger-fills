@@ -8,8 +8,7 @@ sections:
       Hunger Fulfills goal is to help in delivering top class healthy and
       nutritional food for the people who are busy and have no time to prepare
       food.
-    image: >-
-      /images/5-key-tips-for-better-weekly-meal-planning-martini-house-martinihouse_com.png
+    image: /images/aggregator-model.png
     section_id: ''
     title: 'Goal of our service '
     type: section_hero
