@@ -31,6 +31,7 @@ sections:
     type: section_cta
 menu:
   main:
+    identifier: strategies
     name: Strategies
     weight: 2
 layout: landing
