@@ -32,7 +32,7 @@ menu:
   main:
     identifier: risk
     name: Risk
-    weight: 3
+    weight: 4
 layout: landing
 ---
 
