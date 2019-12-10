@@ -30,6 +30,7 @@ sections:
     type: section_faq
 menu:
   main:
+    identifier: risk
     name: Risk
     weight: 3
 layout: landing
