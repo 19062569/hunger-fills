@@ -18,33 +18,40 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
+          Our service is designed in such a way that everyone can access it
+          easily. There are many options to select from the menu. The service is
+          very easy to understand and operated easily by everyone.
+        image: >-
+          /images/5-key-tips-for-better-weekly-meal-planning-martini-house-martinihouse_com.png
         title: The Best Feature of Your Services
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
+          Customers have a feature to customize their food and order.  A
+          balanced diet can be maintained even during the busiest days by
+          ordering food from our app.
+        image: /images/5-easy-vegan-lunch-box-ideas-for-work-adult-bento-.jpg
         title: Awesome Feature of Your Services
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        title: Cool Feature of Your Services
+          We thrive to deliver the food as soon as possible to our customers
+          even during the night time.  We provide door to door service only.
+          Delivery will be done within 30-45 minutes. We accept pre-orders on
+          before day and bulk orders are also taken.
+
+
+          The price is very reasonable and everyone can access their desired
+          order in very affordable rates. This service is consistent and also
+          thrives to provide great performance and gives importance to the
+          customers satisfaction.
+        image: >-
+          /images/78674775-delivery-man-riding-scooter-with-text-fast-delivery-vector.jpg
+        title: Delivery and Pricing
     section_id: features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: ''
     title: Features
     type: section_features
   - bg: white
