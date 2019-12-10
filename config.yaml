@@ -18,13 +18,13 @@ params:
     tagline: SaaS theme by Stackbit
   header:
     has_nav: true
-    logo_img: /images/food-delivery-design-stock-vector-image….jpg
+    logo_img: /images/5-easy-vegan-lunch-box-ideas-for-work-adult-bento-.jpg
     title: Hunger Fulfills
     menu:
       actions:
         - label: Sign Up
           url: /signup
-  palette: blue
+  palette: purple
 disableKinds:
   - RSS
   - taxonomy
