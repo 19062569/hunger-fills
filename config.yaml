@@ -18,7 +18,7 @@ params:
     tagline: ''
   header:
     has_nav: true
-    logo_img: /images/restaurant-online-ordering-1100x600.jpg
+    logo_img: ''
     title: Hunger Fulfills
     menu:
       actions:
