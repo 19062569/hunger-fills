@@ -10,6 +10,9 @@ sections:
     title: vision
     type: section_contact
 menu:
+  main:
+    name: Vision
+    weight: 2
   secondary:
     name: ''
     weight: ''
