@@ -12,7 +12,8 @@ sections:
       in portions such as plenty of vegetable and fruits, protein foods, whole
       grain foods and so on.
 
-      * 
+
+
 
       * We designed an application through which our customers can place an
       order. The application is easily understood and feasible for everyone to
