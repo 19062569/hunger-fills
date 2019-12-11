@@ -7,7 +7,8 @@ sections:
     content: >-
       Hunger Fulfills goal is to help in delivering top class healthy and
       nutritional food for the people who are busy and have no time to prepare
-      food.
+      food. It also gives customers a nutritional meal in which portion size is
+      maintained with great quality of the food at affordable prices
     image: /images/aggregator-model.png
     section_id: ''
     title: 'Goal of Our Service '
@@ -21,6 +22,12 @@ sections:
           Our service is designed in such a way that everyone can access it
           easily. There are many options to select from the menu. The service is
           very easy to understand and operated easily by everyone.
+
+
+          Hunger fulfills is an easily accessible online meal box service that
+          provides nutritional meal boxes which comes with portion sizes and
+          also customization's from our wide spread of quality food at very
+          affordable prices for students, employees and household people.
         image: >-
           /images/5-key-tips-for-better-weekly-meal-planning-martini-house-martinihouse_com.png
         title: The Best Feature of Our Service
