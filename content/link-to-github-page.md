@@ -3,7 +3,7 @@ title: Github link
 sections:
   - bg: gray
     section_id: Github link
-    title: 'Github link - https://github.com/19062569/hunger-fills'
+    title: 'Github link '
     type: section_features
 menu:
   main:
