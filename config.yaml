@@ -2,7 +2,7 @@ title: Hunger Fulfills
 baseURL: /
 params:
   footer:
-    content: '&copy; Ujwala Dindi All rights reserved.'
+    content: '&copy; Ujwala Dindi. All rights reserved.'
     has_nav: true
     has_social: true
     has_subscribe: true
