@@ -42,7 +42,7 @@ sections:
       dedicated as me towards the venture. There will be no betraying from any
       of the team members. Everyone works hard to make our venture successful in
       all the aspects. Hence there is no team risk for my venture.
-    image: /images/crion-commercieel-politiek-risico.jpg
+    image: /images/enterprises-risk-management-software.jpg
     section_id: Types of Risks
     type: section_content
 menu:
