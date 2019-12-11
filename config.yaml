@@ -10,7 +10,7 @@ params:
       - new_window: true
         text: Made with Stackbit
         url: 'https://www.stackbit.com'
-    logo_img: /images/81mqhhkk5ul._sl1500_.jpg
+    logo_img: ''
     nav_title: Company
     social_title: Community
     subscribe_content: Stay up to date with our latest updates and offers.
