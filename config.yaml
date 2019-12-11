@@ -2,14 +2,11 @@ title: Hunger Fulfills
 baseURL: /
 params:
   footer:
-    content: '&copy; Stackbit. All rights reserved.'
+    content: '&copy; Ujwala Dindi All rights reserved.'
     has_nav: true
     has_social: true
     has_subscribe: true
-    links:
-      - new_window: true
-        text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+    links: []
     logo_img: ''
     nav_title: Company
     social_title: Community
