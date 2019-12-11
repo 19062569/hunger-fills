@@ -1,11 +1,7 @@
 ---
 title: Strategies
 sections:
-  - actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
+  - actions: []
     bg: gray
     content: >-
       *  The main strategy of Hunger Fulfills is to attract the mass group of
