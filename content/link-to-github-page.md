@@ -1,5 +1,10 @@
 ---
-title: Link to Github page
+title: Github link
+sections:
+  - bg: gray
+    section_id: Github link
+    title: Github link
+    type: section_features
 menu:
   main:
     identifier: linktogithub
