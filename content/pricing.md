@@ -3,9 +3,6 @@ title: Risk
 sections:
   - bg: gray
     content: >-
-      ![](/images/risk-management.jpg)
-
-
       • Strategic Risk- Changes in the market and environment indicate that the
       strategy has become outdated and maybe the wrong one too in some cases. In
       my venture, a well and clear strategy has been planned. Due to changing
@@ -17,6 +14,9 @@ sections:
       will be verified and cross checked on different platforms such as iOS and
       Android. The landscape and features of the application including the
       software’s used and try to use the best version of it.   
+
+
+      ![](/images/how-to-build-a-mobile-app-design-that-engages-users.jpg)
 
 
       • Market Risk- Market risk is also caused by the competitors. It can be
@@ -37,11 +37,17 @@ sections:
       venture. 
 
 
+      ![](/images/td-to-managed-fund-transition.jpg)
+
+
       • Team Risk- There are no team risks in my venture as my team members are
       my family itself. We can trust each other very well and everyone is as
       dedicated as me towards the venture. There will be no betraying from any
       of the team members. Everyone works hard to make our venture successful in
       all the aspects. Hence there is no team risk for my venture.
+
+
+      ![](/images/21618399.jpg)
     image: /images/enterprises-risk-management-software.jpg
     section_id: Types of Risks
     type: section_content
