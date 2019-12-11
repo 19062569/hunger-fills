@@ -1,9 +1,8 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-img_path: /images/food-delivery-design-stock-vector-image….jpg
+subtitle: ''
+img_path: >-
+  /images/https___blogs-images.forbes.com_sherrienachman_files_2017_06_sakara-1200x1800.jpg
 menu:
   secondary:
     name: About Us
