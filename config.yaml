@@ -19,7 +19,7 @@ params:
     title: Hunger Fulfills
     menu:
       actions: []
-  palette: orange
+  palette: purple
 disableKinds:
   - RSS
   - taxonomy
