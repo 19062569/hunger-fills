@@ -8,7 +8,7 @@ sections:
       Hunger Fulfills goal is to help in delivering top class healthy and
       nutritional food for the people who are busy and have no time to prepare
       food. It also gives customers a nutritional meal in which portion size is
-      maintained with great quality of the food at affordable prices
+      maintained with great quality of the food at affordable prices.
     image: /images/aggregator-model.png
     section_id: ''
     title: 'Goal of Our Service '
