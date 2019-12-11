@@ -10,6 +10,9 @@ sections:
       turn to be wrong or old at some point of time. 
 
 
+      ![](/images/download-premium-image-of-business-people-planning-on-a-strategy-1226688.jpg)
+
+
       • Technology Risk- In my venture, the complete overview of my application
       will be verified and cross checked on different platforms such as iOS and
       Android. The landscape and features of the application including the
@@ -27,6 +30,9 @@ sections:
       reduce and eliminate it. In my venture analysts and investors compare the
       investment accounts and measurement will be taken for a specific period of
       time to get the expected returns. 
+
+
+      ![](/images/competition-business-team-concept-business-vector….jpg)
 
 
       • Financial Risk- My venture is a balanced and well planned one. There are
