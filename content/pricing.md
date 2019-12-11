@@ -56,6 +56,7 @@ sections:
       ![](/images/21618399.jpg)
     image: /images/enterprises-risk-management-software.jpg
     section_id: Types of Risks
+    title: Risks
     type: section_content
 menu:
   main:
