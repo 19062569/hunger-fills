@@ -7,7 +7,7 @@ params:
     has_social: true
     has_subscribe: true
     links: []
-    logo_img: /images/healthy-meals-logo-idea-design.jpg
+    logo_img: ''
     nav_title: Company
     social_title: Community
     subscribe_content: Stay up to date with our latest updates and offers.
