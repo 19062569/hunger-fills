@@ -53,6 +53,15 @@ sections:
     subtitle: ''
     title: Features
     type: section_features
+  - bg: gray
+    reviews:
+      - avatar: /images/android-logo.png
+        content: The application is supported on all Android devices.
+      - avatar: /images/apple-logo-black_svg-wikimedia-commons.png
+        content: The application is supported on iOS devices.
+    section_id: ''
+    title: Supported Devices
+    type: section_reviews
 menu:
   main:
     identifier: home
