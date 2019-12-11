@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Learn More
-        url: /features
+  - actions: []
     content: >-
       Hunger Fulfills goal is to help in delivering top class healthy and
       nutritional food for the people who are busy and have no time to prepare
@@ -15,9 +13,7 @@ sections:
     type: section_hero
   - bg: gray
     featureslist:
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           Our service is designed in such a way that everyone can access it
           easily. There are many options to select from the menu. The service is
@@ -31,18 +27,14 @@ sections:
         image: >-
           /images/5-key-tips-for-better-weekly-meal-planning-martini-house-martinihouse_com.png
         title: The Best Feature of Our Service
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           Customers have a feature to customize their food and order.  A
           balanced diet can be maintained even during the busiest days by
           ordering food from our app.
         image: /images/5-easy-vegan-lunch-box-ideas-for-work-adult-bento-.jpg
         title: Awesome Feature of Our Service
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           We thrive to deliver the food as soon as possible to our customers
           even during the night time.  We provide door to door service only.
