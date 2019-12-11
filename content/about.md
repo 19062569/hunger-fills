@@ -3,14 +3,13 @@ title: About Us
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
-img_path: images/about.jpg
+img_path: /images/food-delivery-design-stock-vector-image….jpg
 menu:
   secondary:
     name: About Us
     weight: 1
 layout: page
 ---
+Hunger Fulfills : An easily accessible online meal box service that provides nutritional meal boxes which comes with portion sizes and also customization's from our wide spread of quality food at very affordable prices for students, employees and household people.     Our service is designed in such a way that everyone can access it easily. There are many options to select from the menu. The service is very easy to understand and operated easily by everyone. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+ Customers feedback and satisfaction is most important for us. We consider the feedback and always try our level best to maintain a best relationship between customers and us. Our goal is to fulfill everyone’s hunger in healthy way.
