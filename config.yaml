@@ -21,9 +21,7 @@ params:
     logo_img: ''
     title: Hunger Fulfills
     menu:
-      actions:
-        - label: Sign Up
-          url: /signup
+      actions: []
   palette: purple
 disableKinds:
   - RSS
